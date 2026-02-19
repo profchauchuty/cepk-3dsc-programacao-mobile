@@ -1,1 +1,55 @@
-# cepk-3dsc-programacao-mobile
+# 📘 Introdução à Programação
+
+**Turma:** 3ª Ano – Tarde – CEPK-1DSC
+**Professor:** Cesar Mauricio Chauchuty  
+**Curso:** Técnico em Desenvolvimento de Sistemas  
+**Instituição:** Colégio Estadual Presidente Kennedy  
+
+---
+
+## 📊 Sistema de Avaliação 
+
+### 1º Trimestre
+
+| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
+|-----------------------------|--------------------|-----------|----------------|------------|
+| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+
+### 2º Trimestre
+
+| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
+|-----------------------------|--------------------|-----------|----------------|------------|
+| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+
+### 3º Trimestre
+
+| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
+|-----------------------------|--------------------|-----------|----------------|------------|
+| Prova Individual            | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+
+---
+
+## 🧪 Conteúdos
+
+| Aula                                   | Link                                                                 |
+|----------------------------------------|----------------------------------------------------------------------|
+| Expo             | Desenvolvimento de apps React Native          | [Acessar](https://docs.expo.dev/) |
+| Excalidraw      | Criação de fluxogramas e diagramas visuais   | [Acessar](https://excalidraw.com/) |
+---
+
+## 🛠 Ferramentas
+
+| Ferramenta       | Finalidade                                     | Link                       |
+|-----------------|-----------------------------------------------|----------------------------|
+| Expo      
+| Excalidraw      | Criação de fluxogramas e diagramas visuais   | [Acessar](https://excalidraw.com/) |
+
+---
+
+> 📱 **Dica:** Participe ativamente das aulas práticas, organize seu cronograma de estudos e revise sempre os conteúdos!
