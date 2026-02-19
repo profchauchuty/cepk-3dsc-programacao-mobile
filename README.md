@@ -39,16 +39,18 @@
 
 | Aula                                   | Link                                                                 |
 |----------------------------------------|----------------------------------------------------------------------|
-| Expo             | Desenvolvimento de apps React Native          | [Acessar](https://docs.expo.dev/) |
-| Excalidraw      | Criação de fluxogramas e diagramas visuais   | [Acessar](https://excalidraw.com/) |
+| Programador Mobile                     | [Acessar](https://www.devmedia.com.br/programador-mobile/42225)       |
+
 ---
 
 ## 🛠 Ferramentas
 
-| Ferramenta       | Finalidade                                     | Link                       |
-|-----------------|-----------------------------------------------|----------------------------|
-| Expo      
-| Excalidraw      | Criação de fluxogramas e diagramas visuais   | [Acessar](https://excalidraw.com/) |
+| Ferramenta      | Finalidade                                    | Link                             |
+|-----------------|-----------------------------------------------|------------------------------------|
+| Expo            | Desenvolvimento de apps React Native          | [Acessar](https://docs.expo.dev/)  |
+| React Native Components & APIs   | Consulta de componentes e APIs do React Native | [Acessar](https://archive.reactnative.dev/docs/next/components-and-apis) |
+| Excalidraw      | Criação de fluxogramas e diagramas visuais    | [Acessar](https://excalidraw.com/) |
+
 
 ---
 
