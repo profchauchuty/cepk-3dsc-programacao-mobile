@@ -44,6 +44,7 @@
 | Estrutura Básica                       | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/estrutura_basica.md) |
 | Componentes Básicos                    | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/principais_componentes.md) |
 | Exercícios 01                          | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/exercicios_01.md) |
+| Contador Pontos                        | [Acessar](https://github.com/profchauchuty/cepk-3dsc-programacao-mobile/blob/main/files/contadorPontos.jsx) |
 ---
 
 ---
