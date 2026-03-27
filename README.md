@@ -45,6 +45,7 @@
 | Componentes Básicos                    | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/principais_componentes.md) |
 | Exercícios 01                          | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/exercicios_01.md) |
 | Contador Pontos                        | [Acessar](https://github.com/profchauchuty/cepk-3dsc-programacao-mobile/blob/main/files/contadorPontos.jsx) |
+| Resumo Sintaxe JS                      | [Acessar](https://github.com/profchauchuty/cepk-3dsc-programacao-mobile/blob/main/files/resumo-sintaxe-js.md) |
 | Atividade Avaliativa                   | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/atividade_individual.md) |
 ---
 
