@@ -5,35 +5,6 @@
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Presidente Kennedy
 
-
----
-
-## 📊 Sistema de Avaliação 
-
-### 1º Trimestre
-
-| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------|-----------|----------------|------------|
-| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-
-### 2º Trimestre
-
-| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------|-----------|----------------|------------|
-| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-
-### 3º Trimestre
-
-| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------|-----------|----------------|------------|
-| Prova Individual            | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-
 ---
 
 ## 🧪 Conteúdos
@@ -47,6 +18,8 @@
 | Contador Pontos                        | [Acessar](https://github.com/profchauchuty/cepk-3dsc-programacao-mobile/blob/main/files/contadorPontos.jsx) |
 | Resumo Sintaxe JS                      | [Acessar](https://github.com/profchauchuty/cepk-3dsc-programacao-mobile/blob/main/files/resumo-sintaxe-js.md) |
 | Atividade Avaliativa                   | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/atividade_individual.md) |
+| Desafio: Lembrar Plus                  | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/desafio-todo.md) |
+
 ---
 
 ---
