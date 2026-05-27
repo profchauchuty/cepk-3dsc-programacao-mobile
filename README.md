@@ -11,15 +11,17 @@
 
 | Aula                                   | Link                                                                 |
 |----------------------------------------|----------------------------------------------------------------------|
+| 1º TRIMESTRE                           |                                                                      |
 | Programador Mobile                     | [Acessar](https://www.devmedia.com.br/programador-mobile/42225)       |
 | Estrutura Básica                       | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/estrutura_basica.md) |
 | Componentes Básicos                    | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/principais_componentes.md) |
-| Exercícios 01                          | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/exercicios_01.md) |
-| Contador Pontos                        | [Acessar](https://github.com/profchauchuty/cepk-3dsc-programacao-mobile/blob/main/files/contadorPontos.jsx) |
-| Resumo Sintaxe JS                      | [Acessar](https://github.com/profchauchuty/cepk-3dsc-programacao-mobile/blob/main/files/resumo-sintaxe-js.md) |
-| Atividade Avaliativa                   | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/atividade_individual.md) |
+| Exercício 01 (Two Data Bind)           | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/exercicios_01.md) |
+| Exercício 02 (Incrementado)            | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/incrementador.md) |
+| Atividade Individual (1º Tri)          | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/atividade_individual.md) |
 | Desafio: Lembrar Plus                  | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/desafio-todo.md) |
-
+| 2º TRIMESTRE                           |                                                                      |
+| AV1 - Jogos Escolares (Parte I)        | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/av1-part1-jogos-escolares-cepk.md) |
+| AV1 - Jogos Escolares (Parte II)       | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/av1-part2-jogos-escolares-cepk.md) |
 ---
 
 ---
